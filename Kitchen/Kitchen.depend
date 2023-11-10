@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699539363 source:g:\kitchen\kitchen-master\kitchen\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
